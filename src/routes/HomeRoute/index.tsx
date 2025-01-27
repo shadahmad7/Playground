@@ -3,7 +3,7 @@ import HomeScreen from '../../screens/HomeScreen';
 
  const HomeRoute = () => {
   return (
-    <HomeScreen />
+    <HomeScreen  />
   );
 }
 export default HomeRoute;
